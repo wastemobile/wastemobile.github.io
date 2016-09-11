@@ -76,5 +76,5 @@ archive_generator:
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: git@github.com:wastemobile/wastemobile.github.io.git
+  repo: git@github.com:wastemobile/learninglog.git
   branch: gh-pages
