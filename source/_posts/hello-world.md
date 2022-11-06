@@ -3,7 +3,10 @@ title: Hello World
 ---
 事過境遷。
 
-重新搞定 github pages。
+如何發布 github pages 有點混亂⋯⋯
+
+- hexo clean && hexo deploy 使用 git-deploy 外掛？
+- 或是直接 git push 更新，自動由 github 更新？
 
 ## Quick Start
 
