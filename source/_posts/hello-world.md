@@ -3,6 +3,8 @@ title: Hello World
 ---
 事過境遷。
 
+重新搞定 github pages。
+
 ## Quick Start
 
 ### Create a new post
